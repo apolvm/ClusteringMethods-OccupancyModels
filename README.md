@@ -1,6 +1,6 @@
-#Clustering Methods and Occupancy Models
+##Clustering Methods and Occupancy Models
 
-#Abstract
+##Abstract
 Community science projects are a good
 resourceful way to access huge amounts of
 data. Since it has low barriers to contribute,
